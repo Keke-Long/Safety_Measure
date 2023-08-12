@@ -1,0 +1,539 @@
+2023-08-12 14:06:26
+Safe_threshold = 5
+seq_length = 10
+
+True Positives (TP):  78752
+True Negatives (TN):  11183
+False Positives (FP): 17860
+False Negatives (FN):  3027
+Accuracy: 0.8115
+Recall: 0.9630
+Precision: 0.8151
+Specificity: 0.3850
+F1 Score: 0.8829
+
+
+2023-08-12 14:13:26
+Safe_threshold = 2
+seq_length = 10
+
+True Positives (TP): 3759
+True Negatives (TN): 72434
+False Positives (FP): 3573
+False Negatives (FN): 31056
+Accuracy: 0.6875
+Recall: 0.1080
+Precision: 0.5127
+Specificity: 0.9530
+F1 Score: 0.1784
+
+
+2023-08-12 14:17:27
+Safe_threshold = 2
+seq_length = 10
+
+True Positives (TP): 49996
+True Negatives (TN): 23459
+False Positives (FP): 29164
+False Negatives (FN): 8203
+Accuracy: 0.6628
+Recall: 0.8591
+Precision: 0.6316
+Specificity: 0.4458
+F1 Score: 0.7280
+
+
+2023-08-12 14:34:13
+Safe_threshold = 3
+seq_length = 10
+
+True Positives (TP): 50250
+True Negatives (TN): 22904
+False Positives (FP): 29719
+False Negatives (FN): 7949
+Accuracy: 0.6601
+Recall: 0.8634
+Precision: 0.6284
+Specificity: 0.4352
+F1 Score: 0.7274
+
+
+2023-08-12 14:37:21
+Safe_threshold = 2
+seq_length = 10
+
+True Positives (TP): 549
+True Negatives (TN): 75623
+False Positives (FP): 384
+False Negatives (FN): 34266
+Accuracy: 0.6873
+Recall: 0.0158
+Precision: 0.5884
+Specificity: 0.9949
+F1 Score: 0.0307
+
+
+2023-08-12 14:41:29
+Safe_threshold = 2
+seq_length = 10
+
+True Positives (TP): 360
+True Negatives (TN): 75878
+False Positives (FP): 231
+False Negatives (FN): 34363
+Accuracy: 0.6879
+Recall: 0.0104
+Precision: 0.6091
+Specificity: 0.9970
+F1 Score: 0.0204
+
+
+2023-08-12 14:44:55
+Safe_threshold = 2
+seq_length = 10
+1Hz
+
+True Positives (TP): 505
+True Negatives (TN): 1610
+False Positives (FP): 500
+False Negatives (FN): 665
+Accuracy: 0.6448
+Recall: 0.4316
+Precision: 0.5025
+Specificity: 0.7630
+F1 Score: 0.4644
+
+
+2023-08-12 14:45:33
+Safe_threshold = 2
+seq_length = 20
+1Hz
+
+True Positives (TP): 485
+True Negatives (TN): 421
+False Positives (FP): 502
+False Negatives (FN): 59
+Accuracy: 0.6176
+Recall: 0.8915
+Precision: 0.4914
+Specificity: 0.4561
+F1 Score: 0.6336
+
+
+2023-08-12 14:46:15
+Safe_threshold = 2
+seq_length = 30
+1Hz
+
+True Positives (TP): 100
+True Negatives (TN): 436
+False Positives (FP): 52
+False Negatives (FN): 289
+Accuracy: 0.6112
+Recall: 0.2571
+Precision: 0.6579
+Specificity: 0.8934
+F1 Score: 0.3697
+
+
+2023-08-12 14:48:39
+Safe_threshold = 2
+seq_length = 15
+1Hz
+
+True Positives (TP): 134
+True Negatives (TN): 1175
+False Positives (FP): 105
+False Negatives (FN): 655
+Accuracy: 0.6327
+Recall: 0.1698
+Precision: 0.5607
+Specificity: 0.9180
+F1 Score: 0.2607
+
+
+2023-08-12 15:58:12
+Safe_threshold = 2
+
+True Positives (TP): 387
+True Negatives (TN): 941
+False Positives (FP): 339
+False Negatives (FN): 402
+Accuracy: 0.6419
+Recall: 0.4905
+Precision: 0.5331
+Specificity: 0.7352
+F1 Score: 0.5109
+
+
+2023-08-12 16:01:33
+Safe_threshold = 2
+Set total data amount 10000
+
+True Positives (TP): 219
+True Negatives (TN): 1010
+False Positives (FP): 172
+False Negatives (FN): 599
+Accuracy: 0.6145
+Recall: 0.2677
+Precision: 0.5601
+Specificity: 0.8545
+F1 Score: 0.3623
+
+
+2023-08-12 16:09:36
+Safe_threshold = 2
+1Hz
+Set total data amount 10000
+
+True Positives (TP): 554
+True Negatives (TN): 327
+False Positives (FP): 591
+False Negatives (FN): 28
+Accuracy: 0.5873
+Recall: 0.9519
+Precision: 0.4838
+Specificity: 0.3562
+F1 Score: 0.6416
+
+
+2023-08-12 16:21:48
+Safe_threshold = 2
+
+True Positives (TP): 0
+True Negatives (TN): 998
+False Positives (FP): 0
+False Negatives (FN): 502
+Accuracy: 0.6653
+Recall: 0.0000
+Precision: nan
+Specificity: 1.0000
+F1 Score: nan
+
+
+2023-08-12 16:22:46
+Safe_threshold = 2
+
+True Positives (TP): 0
+True Negatives (TN): 978
+False Positives (FP): 0
+False Negatives (FN): 522
+Accuracy: 0.6520
+Recall: 0.0000
+Precision: nan
+Specificity: 1.0000
+F1 Score: nan
+
+
+2023-08-12 16:23:28
+Safe_threshold = 2
+
+True Positives (TP): 0
+True Negatives (TN): 1042
+False Positives (FP): 0
+False Negatives (FN): 458
+Accuracy: 0.6947
+Recall: 0.0000
+Precision: nan
+Specificity: 1.0000
+F1 Score: nan
+
+
+2023-08-12 16:24:07
+Safe_threshold = 2
+
+True Positives (TP): 0
+True Negatives (TN): 1018
+False Positives (FP): 0
+False Negatives (FN): 482
+Accuracy: 0.6787
+Recall: 0.0000
+Precision: nan
+Specificity: 1.0000
+F1 Score: nan
+
+
+2023-08-12 16:26:08
+Safe_threshold = 2
+
+True Positives (TP): 135
+True Negatives (TN): 10190
+False Positives (FP): 149
+False Negatives (FN): 4526
+Accuracy: 0.6883
+Recall: 0.0290
+Precision: 0.4754
+Specificity: 0.9856
+F1 Score: 0.0546
+
+
+2023-08-12 16:28:58
+Safe_threshold = 2
+
+True Positives (TP): 0
+True Negatives (TN): 1029
+False Positives (FP): 0
+False Negatives (FN): 471
+Accuracy: 0.6860
+Recall: 0.0000
+Precision: nan
+Specificity: 1.0000
+F1 Score: nan
+
+
+2023-08-12 16:29:50
+Safe_threshold = 2
+
+True Positives (TP): 0
+True Negatives (TN): 5087
+False Positives (FP): 0
+False Negatives (FN): 2413
+Accuracy: 0.6783
+Recall: 0.0000
+Precision: nan
+Specificity: 1.0000
+F1 Score: nan
+
+
+2023-08-12 16:32:23
+Safe_threshold = 2
+
+True Positives (TP): 205
+True Negatives (TN): 755
+False Positives (FP): 153
+False Negatives (FN): 387
+Accuracy: 0.6400
+Recall: 0.3463
+Precision: 0.5726
+Specificity: 0.8315
+F1 Score: 0.4316
+
+
+2023-08-12 16:32:47
+Safe_threshold = 2
+
+True Positives (TP): 68
+True Negatives (TN): 938
+False Positives (FP): 43
+False Negatives (FN): 496
+Accuracy: 0.6511
+Recall: 0.1206
+Precision: 0.6126
+Specificity: 0.9562
+F1 Score: 0.2015
+
+
+2023-08-12 16:33:18
+Safe_threshold = 2
+1Hz
+
+True Positives (TP): 41
+True Negatives (TN): 918
+False Positives (FP): 20
+False Negatives (FN): 566
+Accuracy: 0.6207
+Recall: 0.0675
+Precision: 0.6721
+Specificity: 0.9787
+F1 Score: 0.1228
+
+
+2023-08-12 16:35:01
+Safe_threshold = 2
+1Hz
+
+True Positives (TP): 350
+True Negatives (TN): 598
+False Positives (FP): 336
+False Negatives (FN): 261
+Accuracy: 0.6136
+Recall: 0.5728
+Precision: 0.5102
+Specificity: 0.6403
+F1 Score: 0.5397
+
+
+2023-08-12 16:39:02
+Safe_threshold = 2
+
+True Positives (TP): 212
+True Negatives (TN): 798
+False Positives (FP): 163
+False Negatives (FN): 372
+Accuracy: 0.6537
+Recall: 0.3630
+Precision: 0.5653
+Specificity: 0.8304
+F1 Score: 0.4421
+
+
+2023-08-12 16:40:02
+Safe_threshold = 2
+
+True Positives (TP): 417
+True Negatives (TN): 573
+False Positives (FP): 378
+False Negatives (FN): 177
+Accuracy: 0.6408
+Recall: 0.7020
+Precision: 0.5245
+Specificity: 0.6025
+F1 Score: 0.6004
+
+
+2023-08-12 16:45:02
+Safe_threshold = 2
+
+True Positives (TP): 89
+True Negatives (TN): 887
+False Positives (FP): 66
+False Negatives (FN): 503
+Accuracy: 0.6317
+Recall: 0.1503
+Precision: 0.5742
+Specificity: 0.9307
+F1 Score: 0.2383
+
+
+2023-08-12 16:45:55
+Safe_threshold = 2
+metrics=['accuracy', 'Precision', 'Recall']
+
+True Positives (TP): 461
+True Negatives (TN): 523
+False Positives (FP): 420
+False Negatives (FN): 141
+Accuracy: 0.6369
+Recall: 0.7658
+Precision: 0.5233
+Specificity: 0.5546
+F1 Score: 0.6217
+
+
+2023-08-12 16:46:33
+Safe_threshold = 2
+metrics=['Recall']
+
+True Positives (TP): 141
+True Negatives (TN): 845
+False Positives (FP): 104
+False Negatives (FN): 455
+Accuracy: 0.6382
+Recall: 0.2366
+Precision: 0.5755
+Specificity: 0.8904
+F1 Score: 0.3353
+
+
+2023-08-12 16:49:04
+Safe_threshold = 2
+
+True Positives (TP): 146
+True Negatives (TN): 844
+False Positives (FP): 117
+False Negatives (FN): 438
+Accuracy: 0.6408
+Recall: 0.2500
+Precision: 0.5551
+Specificity: 0.8783
+F1 Score: 0.3447
+
+
+2023-08-12 16:50:18
+Safe_threshold = 2
+
+True Positives (TP): 107
+True Negatives (TN): 858
+False Positives (FP): 97
+False Negatives (FN): 490
+Accuracy: 0.6218
+Recall: 0.1792
+Precision: 0.5245
+Specificity: 0.8984
+F1 Score: 0.2672
+
+
+2023-08-12 16:52:30
+Safe_threshold = 2
+
+True Positives (TP): 252
+True Negatives (TN): 767
+False Positives (FP): 188
+False Negatives (FN): 345
+Accuracy: 0.6566
+Recall: 0.4221
+Precision: 0.5727
+Specificity: 0.8031
+F1 Score: 0.4860
+
+
+2023-08-12 16:54:40
+Safe_threshold = 2
+
+True Positives (TP): 258
+True Negatives (TN): 758
+False Positives (FP): 197
+False Negatives (FN): 339
+Accuracy: 0.6546
+Recall: 0.4322
+Precision: 0.5670
+Specificity: 0.7937
+F1 Score: 0.4905
+
+
+2023-08-12 16:58:27
+Safe_threshold = 2
+
+True Positives (TP): 0
+True Negatives (TN): 955
+False Positives (FP): 0
+False Negatives (FN): 597
+Accuracy: 0.6153
+Recall: 0.0000
+Precision: nan
+Specificity: 1.0000
+F1 Score: nan
+
+
+2023-08-12 16:58:58
+Safe_threshold = 2
+
+True Positives (TP): 361
+True Negatives (TN): 637
+False Positives (FP): 318
+False Negatives (FN): 236
+Accuracy: 0.6430
+Recall: 0.6047
+Precision: 0.5317
+Specificity: 0.6670
+F1 Score: 0.5658
+
+
+2023-08-12 17:05:16
+Safe_threshold = 2
+
+True Positives (TP): 332
+True Negatives (TN): 657
+False Positives (FP): 298
+False Negatives (FN): 265
+Accuracy: 0.6372
+Recall: 0.5561
+Precision: 0.5270
+Specificity: 0.6880
+F1 Score: 0.5412
+
+
+2023-08-12 17:05:49
+Safe_threshold = 2
+
+True Positives (TP): 401
+True Negatives (TN): 612
+False Positives (FP): 343
+False Negatives (FN): 196
+Accuracy: 0.6527
+Recall: 0.6717
+Precision: 0.5390
+Specificity: 0.6408
+F1 Score: 0.5981
+
+
